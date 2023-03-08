@@ -3,4 +3,4 @@ This repository will be used to record the progress of my MSc Project, from toy 
 
 The project will consist on using GNNs (Graph Neural Networks) to analyse interactions between Twitter users and predict if they belong to a specific political ideology (right wing / left wing). It it to be discovered what are the capabilities and advantages of using GNNs for this clasification task.
 
-I will also upload a bibliography with all the articles that I found useful while completing this task + a timeline of how the project was completed.
+I will also upload a bibliography with all the articles that I found useful while completing this project + a timeline of how the project was completed.
